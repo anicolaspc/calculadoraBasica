@@ -12,7 +12,7 @@ const Display = ({ value }) => {
                 background: 'grey',
                 color: 'white'
             }} />
-            
+
         </>
     )
 }
