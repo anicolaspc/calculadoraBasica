@@ -1,8 +1,28 @@
-# React + Vite
+# 🧮 Calculadora Básica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto personal desarrollado para practicar **React** usando **Vite** como entorno de desarrollo.  
+La aplicación simula una calculadora básica con operaciones aritméticas simples y una interfaz limpia y responsiva.
 
-Currently, two official plugins are available:
+🔗 **Sitio en vivo:**  
+[https://anicolaspc.github.io/calculadoraBasica/](https://anicolaspc.github.io/calculadoraBasica/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ⚙️ Características
+
+- ✅ Suma, resta, multiplicación y división
+- 🧠 Lógica separada por componentes reutilizables
+- 🧼 Limpieza y reinicio de resultados
+- 💻 Diseño responsivo para móviles y escritorio
+
+---
+
+## 🛠 Tecnologías
+
+- **React** (con `useState`)
+- **Vite** como entorno de desarrollo
+- **JavaScript (ES6+)**
+- **CSS3** y **HTML5**
+- **GitHub Pages** para el despliegue
+
+---
